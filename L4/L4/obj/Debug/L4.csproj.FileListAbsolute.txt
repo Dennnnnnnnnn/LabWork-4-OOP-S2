@@ -1,0 +1,12 @@
+C:\Users\dsunt\Desktop\L4\L4\bin\Debug\L4.exe.config
+C:\Users\dsunt\Desktop\L4\L4\bin\Debug\L4.exe
+C:\Users\dsunt\Desktop\L4\L4\bin\Debug\L4.pdb
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.csproj.AssemblyReference.cache
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.Form1.resources
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.Properties.Resources.resources
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.csproj.GenerateResource.cache
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.exe
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.pdb
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.FormAbout.resources
+C:\Users\dsunt\Desktop\L4\L4\obj\Debug\L4.FormTask.resources
